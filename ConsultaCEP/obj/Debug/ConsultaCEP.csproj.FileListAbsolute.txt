@@ -1,0 +1,6 @@
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.dll.config
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.dll
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\bin\Debug\ConsultaCEP.pdb
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.csprojResolveAssemblyReference.cache
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.dll
+C:\ConsultaCEP\ConsultaCEP\ConsultaCEP\obj\Debug\ConsultaCEP.pdb
