@@ -1,0 +1,8 @@
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\bin\Debug\ConsomeWSCEP.exe.config
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\bin\Debug\ConsomeWSCEP.exe
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\bin\Debug\ConsomeWSCEP.pdb
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\bin\Debug\ConsultaCEP.dll
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\bin\Debug\ConsultaCEP.pdb
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\obj\Debug\ConsomeWSCEP.csprojResolveAssemblyReference.cache
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\obj\Debug\ConsomeWSCEP.exe
+C:\ConsultaCEP\ConsultaCEP\ConsomeWSCEP\obj\Debug\ConsomeWSCEP.pdb
